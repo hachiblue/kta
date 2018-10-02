@@ -1,2 +1,3 @@
-test
-test test
+<?php
+
+echo 'Hello World';
